@@ -1,4 +1,4 @@
-#Prompt user to enter their citizenship and nationality
+#Prompt user to enter their citizenship and age
 citizenship = input("Enter Citizenship:")
 age = int(input("Enter Age:"))
 #check if the user qualifies for voting 
